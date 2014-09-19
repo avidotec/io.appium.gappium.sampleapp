@@ -1,6 +1,6 @@
 image: davidascher/fathoodie
 services:
-  - couchdb:1.5
+  - couchdb
 cache:
   - .npm  
 pre-script:
