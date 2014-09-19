@@ -2,7 +2,7 @@ image: davidascher/fathoodie
 #services:
 #  - couchdb
 cache:
-  - .npm  
+  - .npm
 pre-script:
   - npm -d install
 script:
