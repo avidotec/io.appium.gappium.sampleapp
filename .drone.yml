@@ -1,6 +1,6 @@
 image: node 0.10
-services:
-  - couchdb:1.5
+#services:
+#  - couchdb:1.5
 cache:
   - .npm  
 pre-script:
