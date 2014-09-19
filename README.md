@@ -5,3 +5,5 @@ Sample Mobile / PhoneGap Application built with Backbone.js and TopCoat courtesy
 
 Please refer to https://github.com/ccoenraets/directory-backbone-topcoat for more details.
 test
+
+Ready to test with Drone
